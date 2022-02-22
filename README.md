@@ -1,6 +1,8 @@
 Crypto Talismanz Project
+
 version 1.0
-Full source code.
+
+Full source code included.
 
 Features:
 - maths based curves
