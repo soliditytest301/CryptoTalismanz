@@ -7,8 +7,8 @@ Full source code included.
 Features:
 - maths based curves
 - programmatically generated items
-- fully logged processes
+- fully logged
 
-Main languages:
+Programming languages:
 - Python
 - Solidity
