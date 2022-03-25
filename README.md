@@ -1,6 +1,7 @@
 Crypto Talismanz Project
 
 Talismanz Genesis NFT Gas-Free Colection
+
 https://opensea.io/collection/talismanz-genesis-nft-gas-free
 
 version 1.0
@@ -17,4 +18,5 @@ Programming languages:
 - Solidity
 
 Discord https://discord.gg/NFtGfuYP
+
 Twitter https://twitter.com/Leoncryptoart7
